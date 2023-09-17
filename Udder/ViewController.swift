@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Udder
-//
-//  Created by Tomas Richard on 17/09/2023.
-//
 
 import UIKit
 
@@ -14,6 +8,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    override func viewWillAppear(_ animated: Bool) {
+        
+    }
 }
 
